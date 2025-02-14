@@ -1,0 +1,8 @@
+http://ec2-35-154-222-59.ap-south-1.compute.amazonaws.com:8000/login
+
+
+http://ec2-35-154-222-59.ap-south-1.compute.amazonaws.com:8000/protected?token=
+http://ec2-35-154-222-59.ap-south-1.compute.amazonaws.com:8000/trendingfood?token=
+priivate: 172.31.11.198
+
+ec2-35-154-222-59.ap-south-1.compute.amazonaws.com
